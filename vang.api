@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "timestamp": 1774321205,
+    "time": "10:00",
+    "date": "2026-03-24",
+    "type": "SJL1L10",
+    "name": "SJC 9999",
+    "buy": 164900000,
+    "sell": 167900000,
+    "change_buy": 1900000,
+    "change_sell": 1900000
+}
